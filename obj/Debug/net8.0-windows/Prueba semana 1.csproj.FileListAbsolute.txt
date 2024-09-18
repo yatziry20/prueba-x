@@ -1,0 +1,7 @@
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba_semana_1.Form1.resources
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.csproj.GenerateResource.cache
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.AssemblyInfoInputs.cache
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.AssemblyInfo.cs
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.csproj.CoreCompileInputs.cache
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.sourcelink.json
