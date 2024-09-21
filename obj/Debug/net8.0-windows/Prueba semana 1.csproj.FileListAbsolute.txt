@@ -5,3 +5,13 @@ C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\n
 C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.AssemblyInfo.cs
 C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.csproj.CoreCompileInputs.cache
 C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.sourcelink.json
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\bin\Debug\net8.0-windows\Prueba semana 1.exe
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\bin\Debug\net8.0-windows\Prueba semana 1.deps.json
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\bin\Debug\net8.0-windows\Prueba semana 1.runtimeconfig.json
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\bin\Debug\net8.0-windows\Prueba semana 1.dll
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\bin\Debug\net8.0-windows\Prueba semana 1.pdb
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.dll
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\refint\Prueba semana 1.dll
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.pdb
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\Prueba semana 1.genruntimeconfig.cache
+C:\Users\yatzi\trabajos\POO\Semana 1\Prueba semana 1\Prueba semana 1\obj\Debug\net8.0-windows\ref\Prueba semana 1.dll
