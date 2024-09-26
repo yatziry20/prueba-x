@@ -1,0 +1,7 @@
+C:\Users\yatzi\trabajos\POO\Semana 1\MiniTienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\yatzi\trabajos\POO\Semana 1\MiniTienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\yatzi\trabajos\POO\Semana 1\MiniTienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\yatzi\trabajos\POO\Semana 1\MiniTienda\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\yatzi\trabajos\POO\Semana 1\MiniTienda\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\yatzi\trabajos\POO\Semana 1\MiniTienda\Tienda\obj\Debug\Tienda.exe
+C:\Users\yatzi\trabajos\POO\Semana 1\MiniTienda\Tienda\obj\Debug\Tienda.pdb
