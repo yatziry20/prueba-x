@@ -1,0 +1,7 @@
+C:\Users\yatzi\trabajos\POO\Semana 1\FundamentosPOO\FundamentosPOO\obj\Debug\FundamentosPOO.csproj.AssemblyReference.cache
+C:\Users\yatzi\trabajos\POO\Semana 1\FundamentosPOO\FundamentosPOO\obj\Debug\FundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\yatzi\trabajos\POO\Semana 1\FundamentosPOO\FundamentosPOO\bin\Debug\FundamentosPOO.exe.config
+C:\Users\yatzi\trabajos\POO\Semana 1\FundamentosPOO\FundamentosPOO\bin\Debug\FundamentosPOO.exe
+C:\Users\yatzi\trabajos\POO\Semana 1\FundamentosPOO\FundamentosPOO\bin\Debug\FundamentosPOO.pdb
+C:\Users\yatzi\trabajos\POO\Semana 1\FundamentosPOO\FundamentosPOO\obj\Debug\FundamentosPOO.exe
+C:\Users\yatzi\trabajos\POO\Semana 1\FundamentosPOO\FundamentosPOO\obj\Debug\FundamentosPOO.pdb
